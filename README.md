@@ -30,5 +30,5 @@ Le projet est organisé en quatre packages principaux:
   - Ajout de la fonctionnalité de formatage de date dans Thymeleaf.
  
   ## Démonstration
-  Pour une démonstration de l'application, veuillez consulter la vidéo suivante (sur youtube)[https://www.youtube.com/watch?v=uldzgbpsmE0]
+  Pour une démonstration de l'application, veuillez consulter la  [vidéo suivante](https://www.youtube.com/watch?v=uldzgbpsmE0)
 
